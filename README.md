@@ -52,3 +52,14 @@
 <h4>🔓 Decryption Process
 </h4>
 <img src="https://github.com/Dilipgjadhav/CS_Encryption_Decryption_Project/blob/main/asset1/dcry.png" alt=""></img>
+
+<h2>🎯 Future Scope
+</h2>
+<b>
+ ✅ Support for multiple image formats (JPG, BMP, etc.)<br>
+✅ Implementation of AES encryption for extra security<br>
+✅ Development of a mobile and web application<br>
+✅ AI-based image security and tampering detection<br>
+
+
+</b>
