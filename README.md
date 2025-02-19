@@ -29,7 +29,9 @@
 </h2>
 <p>1 Run the encryption script:
 </p>
-<div class="height="20px" "weight"="60px "color":"blue">>python encrypt_gui.py</div>
+<div style="height: 20px; width: 60px; background-color: blue;">
+  <button onclick="runEncrypt()">Run encrypt_gui.py</button>
+</div>
 <p></p>
 <p>2 Enter the secret message and password.
 </p>
