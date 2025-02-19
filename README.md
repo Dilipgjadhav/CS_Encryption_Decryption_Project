@@ -25,8 +25,8 @@
 <p>pip install opencv-python numpy PyQt6</p>
 <h2>🚀 Usage
 </h2>
-<b>Encrypt an Image
-</b>
+<h2>Encrypt an Image
+</h2>
 <p>1 Run the encryption script:
 </p>
 <p>python encrypt_gui.py</p>
