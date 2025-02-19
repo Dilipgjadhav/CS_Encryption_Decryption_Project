@@ -29,8 +29,7 @@
 </h2>
 <p>1 Run the encryption script:
 </p>
-<div style="height: 100px; width: 50%; color: blue;">python encrypt_gui.py</div>
-
+<a href="" alt="">python encrypt_gui.py</a>
 <p></p>
 <p>2 Enter the secret message and password.
 </p>
