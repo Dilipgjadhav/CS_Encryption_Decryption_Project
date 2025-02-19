@@ -44,3 +44,11 @@
 </p>
 <p>3 If the password is correct, the hidden message will be revealed.
 </p>
+<h2>🎯 Screenshots
+</h2>
+<h4>🔐 Encryption Process
+</h4>
+<img src="https://github.com/Dilipgjadhav/CS_Encryption_Decryption_Project/blob/main/asset1/enc.png" alt=""></img>
+<h4>🔓 Decryption Process
+</h4>
+<img src="https://github.com/Dilipgjadhav/CS_Encryption_Decryption_Project/blob/main/asset1/dcry.png" alt=""></img>
