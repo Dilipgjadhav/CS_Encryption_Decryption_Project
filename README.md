@@ -29,7 +29,7 @@
 </h2>
 <p>1 Run the encryption script:
 </p>
-<a href="" alt="">python encrypt_gui.py</a>
+<a href="" alt="">python encrypt_code.py</a>
 <p></p>
 <p>2 Enter the secret message and password.
 </p>
@@ -39,7 +39,7 @@
 </h2>
 <p>1 Run the decryption script:
 </p>
-<p>python decrypt_gui.py</p>
+<a href="" alt="">python decrypt_code.py</a>
 <p>2 Enter the password used during encryption.
 </p>
 <p>3 If the password is correct, the hidden message will be revealed.
